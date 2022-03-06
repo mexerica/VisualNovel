@@ -10,7 +10,7 @@ git push
 ``` 
 
 Quando terminar suas alterações:
-````shell
+```shell
 git commit -m "sei la, cara"
 git push origin main
 ```
