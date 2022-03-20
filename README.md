@@ -6,7 +6,7 @@ Criando uma visual novel pro [NaNoRenO 2022](https://itch.io/jam/nanoreno-2022).
 
 Quando for começar a trabalhar:
 ```shell
-git push
+git pull
 ``` 
 
 Quando terminar suas alterações:
