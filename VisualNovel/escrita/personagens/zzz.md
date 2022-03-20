@@ -1,3 +1,4 @@
 # Zzz
 
-- Primeira a chegar
+- provavelmente morre.
+- Primeira a chegar.

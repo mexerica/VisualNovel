@@ -1,3 +1,4 @@
 # Xxx
 
-- já tô shipando
+- já tô shipando.
+- terceiro a chegar.
