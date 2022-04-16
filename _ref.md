@@ -9,6 +9,7 @@
 - Ace Attorney: Phoenix Wright Trials and Tribulations
 - [Tokimeki Memmorial](https://www.youtube.com/watch?v=xb-DtICmPTY&ab_channel=ActionButton)
 - [Snatcher](https://www.youtube.com/watch?v=9Ij_Oo4zIVI&t=7175s&ab_channel=TheInnocentSinful)
+- [Danganronpa: Lapse](https://mythridate.itch.io/danganronpa-lapse)
 
 ## Peças
 - [Huis clos](https://pt.wikipedia.org/wiki/Huis_clos) - Sartre
