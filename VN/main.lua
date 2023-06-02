@@ -36,7 +36,7 @@ function love.draw()
     love.graphics.print(string.sub(txt, 1, letter), 20, 450, 0, 2)
     love.graphics.rectangle("line", 10, 410, 150, 40, 5)
     love.graphics.print(who, 20, 415, 0, 2)
-    love.graphics.rectangle("fill", 10, 20, 520, 380, 5)
+    --love.graphics.rectangle("fill", 10, 20, 520, 380, 5)
     if (letter < txt:len()) then letter = letter + 1 end
     love.graphics.setColor(color1)
     love.graphics.print(option1, 640, 20, 0, 3)
@@ -80,5 +80,10 @@ function love.update(dt)
         else color5 = {1,1,1} end
     else
         continueTxt = true
+        color1 = {1,1,1}
+        color2 = {1,1,1}
+        color3 = {1,1,1}
+        color4 = {1,1,1}
+        color5 = {1,1,1}
     end
 end
